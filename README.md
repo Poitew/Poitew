@@ -1,4 +1,4 @@
-# Sickpoitew
+# sickpoitew
 **`Software developer, Game developer `**
 
  Welcome to my github profile, I am ***sickpoitew***, a game and software developer settled in italy, i've been exploring the programming world for more than 3 years, I'm also proficient in using Linux based OS and the Bash shell.
