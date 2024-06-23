@@ -1,5 +1,5 @@
 # sickpoitew
-**`Software Developer, DevOps `**
+**`Software Developer, DevOps Engineer`**
 
 Hi, I'm ***Sickpoitew***, a Software Developer and DevOps Engineer based in Italy. I've been exploring the programming world for more than four years, during which I've acquired a wide range of skills in both software development and the DevOps environment.
 
