@@ -4,8 +4,6 @@
 Hi, I'm **Sickpoitew**, an IT enthusiast that aspires to be a Software Developer and a DevOps Engineer, I'm a big fan of open source and Linux-based OS.
 I love creating projects and publising them, reading books of all kinds, listening to music and always try to improve myself.
 
-<br/>
-
 ### Software Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
